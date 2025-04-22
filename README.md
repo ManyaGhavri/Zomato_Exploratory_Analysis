@@ -1,6 +1,6 @@
 # 🍽️ Zomato India Restaurant EDA
 
-This repository provides an Exploratory Data Analysis (EDA) of Indian restaurants using a public Zomato dataset. The goal is to uncover insights into restaurant types, cuisine trends, city-wise performance, and cost-rating dynamics.
+This repository provides an **Exploratory Data Analysis (EDA)** of Indian restaurants using a public Zomato dataset. The goal is to uncover insights into restaurant types, cuisine trends, city-wise performance, and cost-rating dynamics.
 
 ---
 
